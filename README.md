@@ -10,7 +10,9 @@ Outro campo que gosto de me aventurar é o da Analise de Dados e a aprendizagem 
 
 ### Skills
 
-### Languages: <img src="https://github.com/jrmoraesdani/jrmoraesdani/assets/143551318/dc38cce5-7ba3-49a1-a5b7-367d3116e672" width="60" height="60" alt="Java" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60" height="40" alt="Java" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40" alt="Java" />
+
+
+### Languages: <img src="https://github.com/jrmoraesdani/jrmoraesdani/assets/143551318/7e42bf1a-60ee-449f-8d4f-b5f95ed2c0d7" width="60" height="60" alt="Java" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60" height="40" alt="Java" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40" alt="Java" />
 
 ### FrontEnd: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="30" alt="Java" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="30" alt="Java" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" height="30" alt="Java" />
 
