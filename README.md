@@ -1,7 +1,7 @@
 ### System.out.println("Hello World!");
 
-Desenvolvedor backend, busco por criar soluções sólidas e padronizadas. Minha expertise abrange o desenvolvimento de APIs utilizando linguagens Java e Node.js, apoiado por suas respectivos ferramentas mais utilizados; Express e Spring Boot.
-Outro campo que gosto de me aventurar é o da Analise de Dados e Engenharia de Cloud Computing, pois estou comprometido com o processo de aprendizagem de novas tecnologias.
+Como desenvolvedor backend, busco por criar soluções sólidas e padronizadas.
+Outro campo que gosto de me aventurar é o da Analise de Dados e Cloud Computing.
 
 * 🌍  São Paulo, Brazil
 * 🧠  Working with Java, Spring Boot NodeJS, Python, Microservices.
